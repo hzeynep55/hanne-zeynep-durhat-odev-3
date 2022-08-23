@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Homework3\proje_dto\bin\Debug\net5.0\proje_dto.deps.json
+C:\Users\User\source\repos\Homework3\proje_dto\bin\Debug\net5.0\proje_dto.dll
+C:\Users\User\source\repos\Homework3\proje_dto\bin\Debug\net5.0\ref\proje_dto.dll
+C:\Users\User\source\repos\Homework3\proje_dto\bin\Debug\net5.0\proje_dto.pdb
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.AssemblyInfo.cs
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.dll
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\ref\proje_dto.dll
+C:\Users\User\source\repos\Homework3\proje_dto\obj\Debug\net5.0\proje_dto.pdb
